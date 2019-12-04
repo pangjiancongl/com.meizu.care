@@ -2,6 +2,10 @@
   margin: 0 auto;
   width: 1315px;
 }
+.container {
+  width: 1240px;
+  margin: 0 auto;
+}
 @font-face {
   font-family: "iconfont";
   src: url("../fonts/iconfont.eot?t=1573987189807"); /* IE9 */
