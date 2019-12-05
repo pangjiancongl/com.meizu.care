@@ -1,18 +1,20 @@
 .top-navigation-bar {
   height: 85px;
-  width: 1360px;
+  width: 1240px;
   line-height: 100px;
+  margin: 0 auto;
 }
 .navigation-bar-left {
   float: right;
   color: #515151;
+  height: 85px;
   /* display: none; */
 }
 .navigation-bar-left li {
   float: left;
   font-size: 15px;
   font-weight: 300;
-  margin: 0 25px;
+  margin: 0 18px;
 }
 .navigation-bar-left li:hover a {
   color: #00c3f5;
@@ -23,6 +25,7 @@
 .navigation-bar-right {
   float: right;
   position: relative;
+  height: 85px;
   /* display: none; */
 }
 .navigation-bar-right .gwc {
