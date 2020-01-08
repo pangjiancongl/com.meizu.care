@@ -277,7 +277,8 @@
   background-color: #f4f4f4;
   padding-top: 40px;
   font-size: 0;
-  height: 11850px;
+  /* height: 11850px; */
+  margin-bottom: 50px;
 }
 .commodity-details h3 {
   font-size: 24px;
